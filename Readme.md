@@ -23,11 +23,6 @@ To get started, ensure you have the following tools installed:
 - npm (Node Package Manager)
 - A code editor (e.g., Visual Studio Code)
 
-## Core Concepts
-- **Server**: A server is a computer program that provides services to other computer programs.
-- **API**: An Application Programming Interface (API) allows different software applications to communicate with each other.
-- **Database**: A database is an organized collection of data, generally stored and accessed electronically.
-
 ## Building Your First API
 In this section, you will learn how to build a simple API using Node.js and Express.
 
