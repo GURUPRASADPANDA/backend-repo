@@ -1,7 +1,7 @@
 # Backend Learning Phase
 
 Welcome to the backend learning phase. This document will guide you through the essential concepts and practices for backend development.
-
+///echo foo > app.js
 ## Table of Contents
 1. Introduction
 2. Setting Up the Environment
