@@ -32,8 +32,6 @@ Learn how to integrate a database into your backend application using MongoDB or
 ## Authentication and Authorization
 Understand how to implement user authentication and authorization to secure your application.
 
-## Error Handling
-Learn how to handle errors gracefully in your backend application.
 
 ## Testing
 Explore different testing strategies to ensure your backend application is robust and reliable.
