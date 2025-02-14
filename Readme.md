@@ -1,48 +1,24 @@
-# Backend Learning Phase
+# chai aur backend  series 
 
-Welcome to the backend learning phase. This document will guide you through the essential concepts and practices for backend development.
-///echo foo > app.js
-## Table of Contents
-1. Introduction
-2. Setting Up the Environment
-3. Core Concepts
-4. Building Your First API
-5. Database Integration
-6. Authentication and Authorization
-7. Error Handling
-8. Testing
-9. Deployment
-10. Best Practices
+This is a video series on backend with javascript
+- [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)
 
-## Introduction
-In this phase, you will learn about the fundamentals of backend development, including server-side programming, database management, and API creation.
+- [Video playlist](https://www.youtube.com/watch?v=EH3vGeqeIAo&list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW)
 
-## Setting Up the Environment
-To get started, ensure you have the following tools installed:
-- Node.js
-- npm (Node Package Manager)
-- A code editor (e.g., Visual Studio Code)
+---
+# Summary of this project
 
-## Building Your First API
-In this section, you will learn how to build a simple API using Node.js and Express.
+This project is a complex backend project that is built with nodejs, expressjs, mongodb, mongoose, jwt, bcrypt, and many more. This project is a complete backend project that has all the features that a backend project should have.
+We are building a complete video hosting website similar to youtube with all the features like login, signup, upload video, like, dislike, comment, reply, subscribe, unsubscribe, and many more.
 
-## Database Integration
-Learn how to integrate a database into your backend application using MongoDB or PostgreSQL.
+Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tokens and many more. We have spent a lot of time in building this project and we are sure that you will learn a lot from this project.
 
-## Authentication and Authorization
-Understand how to implement user authentication and authorization to secure your application.
+---
+Top Contributer to complete all TODOs
 
+1. Spiderman (just sample)  [Link to Repo](https://www.youtube.com/@chaiaurcode)
 
-## Testing
-Explore different testing strategies to ensure your backend application is robust and reliable.
+--- 
+## How to contribute in this open source Project
 
-## Deployment
-Learn how to deploy your backend application to a cloud service provider like AWS or Heroku.
-
-## Best Practices
-Follow these best practices to write clean, maintainable, and efficient backend code.
-
-Happy learning!
-
-
-- [Modellonk] (https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+First, please understand that this is not your regular project to merge your PR. This repo requires you to finish all assignments that are in controller folder. We don't accept half work, please finish all controllers and then reach us out on [Discord](https://hitesh.ai/discord) or [Twitter](https://twitter.com/@hiteshdotcom) and after checking your repo, I will add link to your repo in this readme.
